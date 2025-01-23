@@ -1,7 +1,6 @@
 [package]
-name = "p1"
+name = "p2"
 version.workspace = true
 edition.workspace = true
 
 [dependencies]
-gxhash = "3.4.1"
